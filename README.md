@@ -17,7 +17,6 @@ I build responsive, high-performance frontend applications and integrate generat
   Front-end development (React, Next.js, Styled Components) and cross-platform apps (React Native iOS/Android), translated designs into reusable component systems.
 - **Freelance Software Consultant (3+ years)**  
   Delivered UI features, performance improvements, bug fixes, dashboards, and AI workflow automation for clients.  
-  *Identities and source code omitted by agreement.*
 
 ---
 
