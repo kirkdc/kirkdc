@@ -11,8 +11,8 @@ I build responsive, high-performance frontend applications and integrate generat
 ---
 
 ## Credibility (Professional Work – Private / NDA Protected)
-- **Barnes & Noble Education (via LoudCloud, Mumbai)**  
-  Frontend Lead → Senior Software Developer, led a team of 6 (Vue.js + Nuxt), shipped and optimized features at scale, **reduced load times by 20%**, and improved cross-team delivery timelines.
+- **Barnes & Noble Education, Mumbai**  
+  Frontend Lead → Senior Software Developer, led a team of 4 (Vue.js + Nuxt), shipped and optimized features at scale, **reduced load times by 20%**, and improved cross-team delivery timelines.
 - **Codalyze Technologies, Mumbai (Startup + Enterprise clients)**  
   Front-end development (React, Next.js, Styled Components) and cross-platform apps (React Native iOS/Android), translated designs into reusable component systems.
 - **Freelance Software Consultant (3+ years)**  
@@ -58,9 +58,9 @@ Since past client work lives in private repos, my public GitHub is structured to
 ## Contact
 **LinkedIn:** [linkedin.com/in/kirkcosta ](https://www.linkedin.com/in/kirkdcosta/)
 
-**GitHub:** github.com/kirkdc 
-
 **Email:** kirk_dcosta@yahoo.com
+
+**GitHub:** github.com/kirkdc 
 
 
 
