@@ -10,7 +10,7 @@ I build responsive, high-performance frontend applications and integrate generat
 
 ---
 
-## Credibility (Professional Work – Private / NDA Protected)
+## Professional Work – Private
 - **Barnes & Noble Education, Mumbai**  
   Frontend Lead → Senior Software Developer, led a team of 4 (Vue.js + Nuxt), shipped and optimized features at scale, **reduced load times by 20%**, and improved cross-team delivery timelines.
 - **Codalyze Technologies, Mumbai (Startup + Enterprise clients)**  
@@ -20,7 +20,7 @@ I build responsive, high-performance frontend applications and integrate generat
 
 ---
 
-## Public Showcase Work (Original / NDA Safe)
+## Public Showcase Work
 I create proof-of-ability through projects I fully own that demonstrate:
 - Reusable UI component design
 - State management and async pipelines
