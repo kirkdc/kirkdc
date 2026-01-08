@@ -11,7 +11,7 @@ I build responsive, high-performance frontend applications and integrate generat
 ---
 
 ## Professional Work – Private
-- **Barnes & Noble Education, Mumbai**  
+- **Barnes & Noble Education LoudCloud, Mumbai**  
   Frontend Lead → Senior Software Developer, led a team of 4 (Vue.js + Nuxt), shipped and optimized features at scale, **reduced load times by 20%**, and improved cross-team delivery timelines.
 - **Codalyze Technologies, Mumbai (Startup + Enterprise clients)**  
   Front-end development (React, Next.js, Styled Components) and cross-platform apps (React Native iOS/Android), translated designs into reusable component systems.
