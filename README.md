@@ -20,4 +20,4 @@ Building production ready AI solutions for image & video generation.
 ## Let's Work Together
 AI Integration Consulting | Workflow Development | Custom Solutions
 
-[Website](www.electricmindai.com) | [YouTube](https://www.youtube.com/@ElectricMindAI) | [E-mail](electricmindai@gmail.com)
+[Website](https://www.electricmindai.com) | [YouTube](https://www.youtube.com/@ElectricMindAI) | [E-mail](mailto:electricmindai@gmail.com)
