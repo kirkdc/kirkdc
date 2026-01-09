@@ -3,7 +3,7 @@
 Building production ready AI solutions for image & video generation.
 
 ## Current Focus
-- Electric Mind Studio - Enterprise generative AI platform (Private Beta).
+- Electric Mind AI Studio - Enterprise generative AI platform (Private Beta).
 - Production ComfyUI workflows for Fortune 500 clients.
 - Custom LoRA training & model fine-tuning.
 
