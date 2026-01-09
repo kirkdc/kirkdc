@@ -1,65 +1,23 @@
-# Kirk D’Costa
+# Kirk D'Costa - Generative AI Engineer
 
-Senior Front-End Developer (JavaScript) | React • Vue • Nuxt • Next • Tailwind | Generative AI Integrations  
-Mumbai, India
+Building production ready AI solutions for image & video generation.
 
----
+## Current Focus
+- Electric Mind Studio - Enterprise generative AI platform (Private Beta).
+- Production ComfyUI workflows for Fortune 500 clients.
+- Custom LoRA training & model fine-tuning.
 
-## Mission
-I build responsive, high-performance frontend applications and integrate generative AI (image/video + automation workflows) into real products. My focus is execution quality, performance and clean, scalable UI architecture.
+## What I Do
+- **AI Integration**: Bring cutting-edge generative AI into production apps.
+- **Workflow Engineering**: ComfyUI, Stable Diffusion, Flux, custom pipelines. 
+- **Full-Stack Dev**: React, Vue, Next.js, Node.js + AI backends.
 
----
+## Recent Projects
+- Automated product photography system → 80% time reduction.
+- Video production pipeline → 3 days to 4 hours.
+- Custom LoRA training framework for brand consistency.
 
-## Professional Work – Private
-- **Barnes & Noble Education LoudCloud, Mumbai**  
-  Frontend Lead → Senior Software Developer, led a team of 4 (Vue.js + Nuxt), shipped and optimized features at scale, **reduced load times by 20%**, and improved cross-team delivery timelines.
-- **Codalyze Technologies, Mumbai (Startup + Enterprise clients)**  
-  Front-end development (React, Next.js, Styled Components) and cross-platform apps (React Native iOS/Android), translated designs into reusable component systems.
-- **Freelance Software Consultant (3+ years)**  
-  Delivered UI features, performance improvements, bug fixes, dashboards, and AI workflow automation for clients.  
+## Let's Work Together
+AI Integration Consulting | Workflow Development | Custom Solutions
 
----
-
-## Public Showcase Work
-I create proof-of-ability through projects I fully own that demonstrate:
-- Reusable UI component design
-- State management and async pipelines
-- API-driven interfaces
-- Performance-optimized frontends
-- Generative AI media workflows (Flux, Stable Diffusion, ComfyUI, video decoding, etc.)
-
----
-
-## Core Skills
-**Frontend:** JavaScript (ES6+), React, Vue, Nuxt 3, Next 15, Tailwind CSS, HTML, CSS  
-**Backend (Integration level):** Node.js, REST APIs  
-**AI:** Flux prompting, LoRA prep, ComfyUI workflows, image/video pipeline design  
-**Dev Tools:** Git, JIRA, AI-assisted coding (Cursor), performance profiling  
-**Creative:** After Effects, Photoshop (for AI media showcases)
-
----
-
-## What I Deliver
-- Fast, responsive, production-grade UI
-- Scalable component architecture
-- Clean handoffs between dev teams
-- Measurable performance gains
-- AI media features integrated into frontend experiences
-- Reliable execution under constraints
-
----
-
-## Portfolio Strategy
-Since past client work lives in private repos, my public GitHub is structured to **build confidence through owned, high-signal demos** rather than proprietary code.
-
----
-
-## Contact
-**LinkedIn:** [linkedin.com/in/kirkcosta ](https://www.linkedin.com/in/kirkdcosta/)
-
-**Email:** kirk_dcosta@yahoo.com
-
-**GitHub:** github.com/kirkdc 
-
-
-
+[Website](www.electricmindai.com) | [YouTube](https://www.youtube.com/@ElectricMindAI) | [E-mail](electricmindai@gmail.com)
