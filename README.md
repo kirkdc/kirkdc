@@ -20,7 +20,9 @@ generative models and scalable enterprise web applications.
 
 ## Featured Work: Electric Mind AI Studio
 One app, one tab, the full content creation workflow! No tool switching,
-no juggling software, no drama! Runs at base API cost, so I avoid the markup
+no juggling software, no drama! 
+
+Runs at base API cost, so I avoid the markup
 that popular commercial platforms charge just to put flashy UI on top of the same
 models. Source code is closed but the capabilities are documented below.
 Want a live walkthrough? [Get in touch.](mailto:electricmindai@gmail.com)
