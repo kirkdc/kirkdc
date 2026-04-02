@@ -28,7 +28,7 @@ models. Source code is closed but the capabilities are documented below.
 Want a live walkthrough? [Get in touch.](mailto:electricmindai@gmail.com)
 
 * [Watch the Application Walkthrough and Feature Showcase](https://www.youtube.com/watch?v=gpDb7wKsZtA&t=55s)
-* [View the System Architecture Diagram](./assets/architecture-diagram.png)
+* [View the System Architecture Diagram](https://raw.githubusercontent.com/kirkdc/kirkdc/refs/heads/master/assets/system_architecture_diagram.png)
 * [See the Base Workflow Demo](https://www.youtube.com/watch?v=iP3RwFxOKAA&t=15s)
 
 Under the hood, I engineered:
